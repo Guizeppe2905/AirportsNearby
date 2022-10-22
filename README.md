@@ -16,11 +16,6 @@
 5. Прокладывать маршрут от пользователя до аэропорта, если это географически возможно.
 
 ***
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ibPBFAAwnvCfzUfavN/giphy.gif" alt="animated"> 
-
-***
 ### Stack
 ***
 - Приложение написано на UIKit, внедрен SwiftUI только для стилизации текста под "Звездные войны";
@@ -28,5 +23,5 @@
 - Карты и определение местоположения пользователя - CoreLocation, MapKit.
 
 <p align="center">
-<img src="https://media.giphy.com/media/TC59t6BDltvM82ESoY/giphy.gif" alt="animated" />
+<img src="https://media.giphy.com/media/V3YoGlpWB8LU8ZGeMj/giphy.gif" alt="animated" />
 
