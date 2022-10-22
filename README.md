@@ -20,7 +20,8 @@
 ***
 - Приложение написано на UIKit, внедрен SwiftUI только для стилизации текста под "Звездные войны";
 - Работа с API, поиск реализованы с помощью Combine;
-- Карты и определение местоположения пользователя - CoreLocation, MapKit.
+- Карты и определение местоположения пользователя - CoreLocation, MapKit;
+- MVVM.
 
 <p align="center">
 <img src="https://media.giphy.com/media/V3YoGlpWB8LU8ZGeMj/giphy.gif" alt="animated" />
